@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EX3M.STORE</string>
+    <string name="store_tab">Store</string>
+    <string name="downloads_tab">Downloads</string>
+    <string name="settings_tab">Settings</string>
+    <string name="download">Download</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="install">Install</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="retry">Retry</string>
+    <string name="back">Back</string>
+    <string name="version">Version</string>
+    <string name="description">Description</string>
+    <string name="no_apps_available">No apps available</string>
+    <string name="check_back_later">Check back later for new releases</string>
+    <string name="download_failed">Download failed</string>
+    <string name="downloading">Downloading...</string>
+    <string name="paused">Paused</string>
+    <string name="pending">Pending...</string>
+    <string name="completed">Completed</string>
+    <string name="installing">Installing...</string>
+    <string name="installed">Installed</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="tap_to_install">Tap to install</string>
+    <string name="download_complete">Download complete</string>
+    <string name="speed">Speed</string>
+</resources>

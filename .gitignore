@@ -1,0 +1,54 @@
+# Gradle
+.gradle/
+build/
+*/build/
+*/build.gradle.kts
+
+# Local configuration
+local.properties
+gradle.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Generated files
+*/out/
+*/generated/
+*/captures/
+
+# Kotlin
+*.kt.html
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Hilt generated
+app/build/generated/hilt/
+
+# Room generated
+app/build/generated/source/kapt/
+
+# DataBinding generated
+app/build/generated/source/dataBinding/
